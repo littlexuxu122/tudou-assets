@@ -1,0 +1,20 @@
+{
+  "github": {
+    "owner": "littlexuxu122",
+    "repo": "tudou-assets",
+    "branch": "main"
+  },
+  "paths": {
+    "images": "public/images",
+    "videos": "public/videos",
+    "output": "dist"
+  },
+  "cdn": {
+    "provider": "jsdelivr",
+    "basePath": ""
+  },
+  "naming": {
+    "keepOriginalName": true,
+    "prefixIndex": true
+  }
+}

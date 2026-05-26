@@ -1,0 +1,1071 @@
+{
+  "generatedAt": "2026-05-26T12:10:02.469Z",
+  "assets": [
+    {
+      "type": "image",
+      "name": "001_棋盘空间.jpg",
+      "path": "public/images/001_棋盘空间.jpg",
+      "publicPath": "images/001_棋盘空间.jpg",
+      "bytes": 767250,
+      "sha256": "677348b91c8c3c607383f6f2083382ad5e152cfa263742f8220bdce19b1ed8d8",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/001_%E6%A3%8B%E7%9B%98%E7%A9%BA%E9%97%B4.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/001_%E6%A3%8B%E7%9B%98%E7%A9%BA%E9%97%B4.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/001_%E6%A3%8B%E7%9B%98%E7%A9%BA%E9%97%B4.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "002_库存空间.jpg",
+      "path": "public/images/002_库存空间.jpg",
+      "publicPath": "images/002_库存空间.jpg",
+      "bytes": 227610,
+      "sha256": "72cc0005ce0409ebd2a28d715b46dfeb35ce4fd807c5d537044825ffc2a65205",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/002_%E5%BA%93%E5%AD%98%E7%A9%BA%E9%97%B4.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/002_%E5%BA%93%E5%AD%98%E7%A9%BA%E9%97%B4.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/002_%E5%BA%93%E5%AD%98%E7%A9%BA%E9%97%B4.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "003_果盘.png",
+      "path": "public/images/003_果盘.png",
+      "publicPath": "images/003_果盘.png",
+      "bytes": 21657,
+      "sha256": "b4cc474c011ae5ffc8ed111ad69bc453c6380c6e0c325b81a2d15e2460874f78",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/003_%E6%9E%9C%E7%9B%98.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/003_%E6%9E%9C%E7%9B%98.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/003_%E6%9E%9C%E7%9B%98.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "004_相机.png",
+      "path": "public/images/004_相机.png",
+      "publicPath": "images/004_相机.png",
+      "bytes": 22752,
+      "sha256": "8552794180174e0cfed0a00f69f634fe9bf2f0d41b420501afa3c50acfe48a7a",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/004_%E7%9B%B8%E6%9C%BA.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/004_%E7%9B%B8%E6%9C%BA.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/004_%E7%9B%B8%E6%9C%BA.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "005_圣诞礼盒.png",
+      "path": "public/images/005_圣诞礼盒.png",
+      "publicPath": "images/005_圣诞礼盒.png",
+      "bytes": 22919,
+      "sha256": "cdf89149bad5c0c63865884b14ed2bebdb7c5dfe49c820795c15e09f127fd547",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/005_%E5%9C%A3%E8%AF%9E%E7%A4%BC%E7%9B%92.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/005_%E5%9C%A3%E8%AF%9E%E7%A4%BC%E7%9B%92.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/005_%E5%9C%A3%E8%AF%9E%E7%A4%BC%E7%9B%92.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "006_缝纫机.png",
+      "path": "public/images/006_缝纫机.png",
+      "publicPath": "images/006_缝纫机.png",
+      "bytes": 21876,
+      "sha256": "e0bfa07e1a63f60191553c19b9f5fab121f2dc74f931b65b93bc7106c6257170",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/006_%E7%BC%9D%E7%BA%AB%E6%9C%BA.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/006_%E7%BC%9D%E7%BA%AB%E6%9C%BA.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/006_%E7%BC%9D%E7%BA%AB%E6%9C%BA.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "007_猫窝.png",
+      "path": "public/images/007_猫窝.png",
+      "publicPath": "images/007_猫窝.png",
+      "bytes": 31139,
+      "sha256": "6523b3a111990738467892f68606b49049224317c8fb357d73cf21ccbde3e3e7",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/007_%E7%8C%AB%E7%AA%9D.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/007_%E7%8C%AB%E7%AA%9D.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/007_%E7%8C%AB%E7%AA%9D.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "008_可生长植物的陶罐.png",
+      "path": "public/images/008_可生长植物的陶罐.png",
+      "publicPath": "images/008_可生长植物的陶罐.png",
+      "bytes": 18805,
+      "sha256": "83f302cea1238c81c24355b1b5c63251b99f2cc7196877483f3f5935869b96c0",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/008_%E5%8F%AF%E7%94%9F%E9%95%BF%E6%A4%8D%E7%89%A9%E7%9A%84%E9%99%B6%E7%BD%90.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/008_%E5%8F%AF%E7%94%9F%E9%95%BF%E6%A4%8D%E7%89%A9%E7%9A%84%E9%99%B6%E7%BD%90.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/008_%E5%8F%AF%E7%94%9F%E9%95%BF%E6%A4%8D%E7%89%A9%E7%9A%84%E9%99%B6%E7%BD%90.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "009_礼盒.png",
+      "path": "public/images/009_礼盒.png",
+      "publicPath": "images/009_礼盒.png",
+      "bytes": 20349,
+      "sha256": "1687eb59a947e56728464aec2d1e2a7d1ccdb6a18b9d23d2c41e2fe9224c1eba",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/009_%E7%A4%BC%E7%9B%92.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/009_%E7%A4%BC%E7%9B%92.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/009_%E7%A4%BC%E7%9B%92.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "010_欢乐庆典蛋糕.png",
+      "path": "public/images/010_欢乐庆典蛋糕.png",
+      "publicPath": "images/010_欢乐庆典蛋糕.png",
+      "bytes": 22744,
+      "sha256": "95d1e85fdc719c43ca74d5dc99df31d2fa045ec8a989e4950c4599cd620bebd1",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/010_%E6%AC%A2%E4%B9%90%E5%BA%86%E5%85%B8%E8%9B%8B%E7%B3%95.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/010_%E6%AC%A2%E4%B9%90%E5%BA%86%E5%85%B8%E8%9B%8B%E7%B3%95.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/010_%E6%AC%A2%E4%B9%90%E5%BA%86%E5%85%B8%E8%9B%8B%E7%B3%95.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "011_低于_100_时开始自动恢复.png",
+      "path": "public/images/011_低于_100_时开始自动恢复.png",
+      "publicPath": "images/011_低于_100_时开始自动恢复.png",
+      "bytes": 644588,
+      "sha256": "3ade0a351477fd995fbd2192a1516e5c842e44afc2bf3029d78a5f221d013919",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/011_%E4%BD%8E%E4%BA%8E_100_%E6%97%B6%E5%BC%80%E5%A7%8B%E8%87%AA%E5%8A%A8%E6%81%A2%E5%A4%8D.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/011_%E4%BD%8E%E4%BA%8E_100_%E6%97%B6%E5%BC%80%E5%A7%8B%E8%87%AA%E5%8A%A8%E6%81%A2%E5%A4%8D.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/011_%E4%BD%8E%E4%BA%8E_100_%E6%97%B6%E5%BC%80%E5%A7%8B%E8%87%AA%E5%8A%A8%E6%81%A2%E5%A4%8D.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "012_达到_100_后，不再恢复.png",
+      "path": "public/images/012_达到_100_后，不再恢复.png",
+      "publicPath": "images/012_达到_100_后，不再恢复.png",
+      "bytes": 601222,
+      "sha256": "e10e9593cddec072f635646de62eb617b2954985a78b08d1dfd4d8798fa7b27a",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/012_%E8%BE%BE%E5%88%B0_100_%E5%90%8E%EF%BC%8C%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/012_%E8%BE%BE%E5%88%B0_100_%E5%90%8E%EF%BC%8C%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/012_%E8%BE%BE%E5%88%B0_100_%E5%90%8E%EF%BC%8C%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "013_关闭多倍率_每次生产消耗能量1.png",
+      "path": "public/images/013_关闭多倍率_每次生产消耗能量1.png",
+      "publicPath": "images/013_关闭多倍率_每次生产消耗能量1.png",
+      "bytes": 4051541,
+      "sha256": "a1bf415ab56e050b16e9d90fe102f08056e8fcb810f92ba75dc8fb5f93705118",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/013_%E5%85%B3%E9%97%AD%E5%A4%9A%E5%80%8D%E7%8E%87_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F1.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/013_%E5%85%B3%E9%97%AD%E5%A4%9A%E5%80%8D%E7%8E%87_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F1.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/013_%E5%85%B3%E9%97%AD%E5%A4%9A%E5%80%8D%E7%8E%87_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F1.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "014_开启2倍消耗_每次生产消耗能量2_棋子等级+1.png",
+      "path": "public/images/014_开启2倍消耗_每次生产消耗能量2_棋子等级+1.png",
+      "publicPath": "images/014_开启2倍消耗_每次生产消耗能量2_棋子等级+1.png",
+      "bytes": 4143982,
+      "sha256": "d8565b201f372a4c96c5027b6f5bfd450d0b428bcb3179c13511c1834333dce0",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/014_%E5%BC%80%E5%90%AF2%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F2_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B1.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/014_%E5%BC%80%E5%90%AF2%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F2_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B1.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/014_%E5%BC%80%E5%90%AF2%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F2_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B1.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "015_开启4倍消耗_每次生产消耗能量4_棋子等级+2.png",
+      "path": "public/images/015_开启4倍消耗_每次生产消耗能量4_棋子等级+2.png",
+      "publicPath": "images/015_开启4倍消耗_每次生产消耗能量4_棋子等级+2.png",
+      "bytes": 4147169,
+      "sha256": "9d8f94c33d510469803cc7dd610c73cd90427ed937e6c4582afb7ca1f87d3d0f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/015_%E5%BC%80%E5%90%AF4%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F4_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B2.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/015_%E5%BC%80%E5%90%AF4%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F4_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B2.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/015_%E5%BC%80%E5%90%AF4%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F4_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B2.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "016_基础棋子等级链.jpeg",
+      "path": "public/images/016_基础棋子等级链.jpeg",
+      "publicPath": "images/016_基础棋子等级链.jpeg",
+      "bytes": 220146,
+      "sha256": "6dc94468efbb996d58d571f0d02c1841bc83e18a62079ecb39bb240945d60ab2",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/016_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/016_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/016_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "017_生成器的等级链.jpeg",
+      "path": "public/images/017_生成器的等级链.jpeg",
+      "publicPath": "images/017_生成器的等级链.jpeg",
+      "bytes": 248612,
+      "sha256": "60c9422ca13a187dd13e615bddfff6b50cfac7e2865429dee30e556c58100fb7",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/017_%E7%94%9F%E6%88%90%E5%99%A8%E7%9A%84%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/017_%E7%94%9F%E6%88%90%E5%99%A8%E7%9A%84%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/017_%E7%94%9F%E6%88%90%E5%99%A8%E7%9A%84%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "018.png",
+      "path": "public/images/018.png",
+      "publicPath": "images/018.png",
+      "bytes": 8876,
+      "sha256": "7df3cdab8e7c33826b13c7a081535d16dbe30a7059b442522d2d1ba5272173cd",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/018.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/018.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/018.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "019.png",
+      "path": "public/images/019.png",
+      "publicPath": "images/019.png",
+      "bytes": 12533,
+      "sha256": "a345b4c1b9482d28b64ab1b2945c085e9940300876b96c8f35133207f6d01ef1",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/019.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/019.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/019.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "020_image.png",
+      "path": "public/images/020_image.png",
+      "publicPath": "images/020_image.png",
+      "bytes": 23222,
+      "sha256": "4e3fe8f7b3120c57b81c742c09debbc2a4895ceffecabfdbaa787376a83e89da",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/020_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/020_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/020_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "021_image.png",
+      "path": "public/images/021_image.png",
+      "publicPath": "images/021_image.png",
+      "bytes": 17529,
+      "sha256": "4e7979e08ada0d3b94a555d4aecdd29eec25a238478a5f89d2a4bd4330267bc8",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/021_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/021_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/021_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "022_image.png",
+      "path": "public/images/022_image.png",
+      "publicPath": "images/022_image.png",
+      "bytes": 21064,
+      "sha256": "5d3875bb6f611d64f0439348f08b6b563aaf995589088f961a8a732145ed0454",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/022_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/022_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/022_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "023_image.png",
+      "path": "public/images/023_image.png",
+      "publicPath": "images/023_image.png",
+      "bytes": 27709,
+      "sha256": "a6544cbd3ae956f4d36c606d6784885ca6cbb2427c85600129fdc072556db6aa",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/023_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/023_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/023_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "024_image.png",
+      "path": "public/images/024_image.png",
+      "publicPath": "images/024_image.png",
+      "bytes": 22093,
+      "sha256": "b0ed09b758c0267232f812aef14b9cce91e8762e7dfc9fc711b1bff9d6d186be",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/024_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/024_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/024_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "025_image.png",
+      "path": "public/images/025_image.png",
+      "publicPath": "images/025_image.png",
+      "bytes": 11811,
+      "sha256": "61c9392de0c722cba1907423c462519280bbbe36e757ceab3cd88ffea030c3dc",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/025_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/025_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/025_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "026_image.png",
+      "path": "public/images/026_image.png",
+      "publicPath": "images/026_image.png",
+      "bytes": 24281,
+      "sha256": "6a82063bd6df09cda772d418ccd8b7287fe172fd964b6e57ecb338352f24cd56",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/026_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/026_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/026_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "027_image.png",
+      "path": "public/images/027_image.png",
+      "publicPath": "images/027_image.png",
+      "bytes": 143716,
+      "sha256": "d15bc0e9e36700c6caf894aa3fe8867aa1f48d3c3dba799d9c61e0a9b00683bc",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/027_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/027_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/027_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "028_image.png",
+      "path": "public/images/028_image.png",
+      "publicPath": "images/028_image.png",
+      "bytes": 17531,
+      "sha256": "f1cabd873699d50fe3f574a2d1363d5ccf07b459d27e509160171c583358dbf9",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/028_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/028_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/028_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "029_image.png",
+      "path": "public/images/029_image.png",
+      "publicPath": "images/029_image.png",
+      "bytes": 37491,
+      "sha256": "a3c027b4c0af10899d3a15e231a447d6e0acae84b91aaac0ab78e7327f31361e",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/029_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/029_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/029_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "030_image.png",
+      "path": "public/images/030_image.png",
+      "publicPath": "images/030_image.png",
+      "bytes": 40782,
+      "sha256": "9771effeceb620455ccabc8b944611d1ad777841ba12c2c75655300bee81a494",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/030_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/030_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/030_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "031_上锁宝箱，开启前.jpg",
+      "path": "public/images/031_上锁宝箱，开启前.jpg",
+      "publicPath": "images/031_上锁宝箱，开启前.jpg",
+      "bytes": 707311,
+      "sha256": "3860a992c7f92369d37fecb177755156b143a2723dce39ca1e5bc62e82395def",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/031_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%89%8D.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/031_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%89%8D.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/031_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%89%8D.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "032_上锁宝箱，开启中.jpg",
+      "path": "public/images/032_上锁宝箱，开启中.jpg",
+      "publicPath": "images/032_上锁宝箱，开启中.jpg",
+      "bytes": 709474,
+      "sha256": "9602ccbaf6d011bf6cd45b0d91b313b64950e9dec8e8c66d92b1bf42a2478c2f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/032_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E4%B8%AD.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/032_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E4%B8%AD.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/032_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E4%B8%AD.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "033_上锁宝箱，开启后.jpeg",
+      "path": "public/images/033_上锁宝箱，开启后.jpeg",
+      "publicPath": "images/033_上锁宝箱，开启后.jpeg",
+      "bytes": 380498,
+      "sha256": "604eefaf7a4afb157b5556f5da0189ad5b05335c11c80fa30b271b750d7f4306",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/033_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%90%8E.jpeg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/033_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%90%8E.jpeg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/033_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%90%8E.jpeg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "034_不上锁宝箱.jpg",
+      "path": "public/images/034_不上锁宝箱.jpg",
+      "publicPath": "images/034_不上锁宝箱.jpg",
+      "bytes": 690164,
+      "sha256": "d15d86996ce9ac1b74ecf1d0314fea04903563b6b7f9bc7c2de82faba5f09703",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/034_%E4%B8%8D%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/034_%E4%B8%8D%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/034_%E4%B8%8D%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "035_image.png",
+      "path": "public/images/035_image.png",
+      "publicPath": "images/035_image.png",
+      "bytes": 24548,
+      "sha256": "8795099b91ce4f53722d2b0816f2296fc2d51f0a6726ded4c0b41bd43acf720c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/035_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/035_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/035_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "036_image.png",
+      "path": "public/images/036_image.png",
+      "publicPath": "images/036_image.png",
+      "bytes": 19118,
+      "sha256": "62d6a7d8c0a0f23e79920c02c5aca5bc0f6e409ebd3b7f9bdf1ab10481413d86",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/036_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/036_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/036_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "037_image.png",
+      "path": "public/images/037_image.png",
+      "publicPath": "images/037_image.png",
+      "bytes": 19523,
+      "sha256": "61721e523da477df1fac2c895f2f0c08cc19170cb0f746bb9621850fc639be85",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/037_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/037_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/037_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "038_image.png",
+      "path": "public/images/038_image.png",
+      "publicPath": "images/038_image.png",
+      "bytes": 32140,
+      "sha256": "f5f2140ab2d2cd19a7c3351b624bd8165b7f3bfb5a3db3b33b9762c1b17ddbc5",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/038_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/038_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/038_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "039_image.png",
+      "path": "public/images/039_image.png",
+      "publicPath": "images/039_image.png",
+      "bytes": 19028,
+      "sha256": "dc5fcf3893684fe3f0eb35ca1d791210f120892189478b68937a279d09ef6b8d",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/039_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/039_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/039_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "040_能量箱.png",
+      "path": "public/images/040_能量箱.png",
+      "publicPath": "images/040_能量箱.png",
+      "bytes": 495136,
+      "sha256": "6b3ded54ef60c310be3d0b695863ce51e7e85dcda8598c07a50e1037c71c91e8",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/040_%E8%83%BD%E9%87%8F%E7%AE%B1.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/040_%E8%83%BD%E9%87%8F%E7%AE%B1.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/040_%E8%83%BD%E9%87%8F%E7%AE%B1.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "041_金币存钱罐.png",
+      "path": "public/images/041_金币存钱罐.png",
+      "publicPath": "images/041_金币存钱罐.png",
+      "bytes": 191812,
+      "sha256": "fc1bb7983ec5e4c110f816537397b2b6a2241356398318d807c828bcbdc072ad",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/041_%E9%87%91%E5%B8%81%E5%AD%98%E9%92%B1%E7%BD%90.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/041_%E9%87%91%E5%B8%81%E5%AD%98%E9%92%B1%E7%BD%90.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/041_%E9%87%91%E5%B8%81%E5%AD%98%E9%92%B1%E7%BD%90.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "042_金币能量宝箱.png",
+      "path": "public/images/042_金币能量宝箱.png",
+      "publicPath": "images/042_金币能量宝箱.png",
+      "bytes": 555987,
+      "sha256": "348b951491eeecaacef3e341d4979d11942a50281e77b4a58bfb57c7f1242c58",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/042_%E9%87%91%E5%B8%81%E8%83%BD%E9%87%8F%E5%AE%9D%E7%AE%B1.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/042_%E9%87%91%E5%B8%81%E8%83%BD%E9%87%8F%E5%AE%9D%E7%AE%B1.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/042_%E9%87%91%E5%B8%81%E8%83%BD%E9%87%8F%E5%AE%9D%E7%AE%B1.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "043_基础棋子宝箱.png",
+      "path": "public/images/043_基础棋子宝箱.png",
+      "publicPath": "images/043_基础棋子宝箱.png",
+      "bytes": 214597,
+      "sha256": "a16f67c5882c19f50715f48acb2740634240e92c9ea2a0b8bb3c0301508336fc",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/043_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/043_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/043_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "044_生成器棋子宝箱.png",
+      "path": "public/images/044_生成器棋子宝箱.png",
+      "publicPath": "images/044_生成器棋子宝箱.png",
+      "bytes": 592279,
+      "sha256": "1eaab9fa77984d203f2fdd1ca0812a935be6235542e64574408343620ad0ee1e",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/044_%E7%94%9F%E6%88%90%E5%99%A8%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/044_%E7%94%9F%E6%88%90%E5%99%A8%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/044_%E7%94%9F%E6%88%90%E5%99%A8%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "045_奖励项固定展示这三个棋子.jpg",
+      "path": "public/images/045_奖励项固定展示这三个棋子.jpg",
+      "publicPath": "images/045_奖励项固定展示这三个棋子.jpg",
+      "bytes": 99700,
+      "sha256": "ba774a75a77c24142844a7b43232fb60afa64107780908336dd1d923df5ffd89",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/045_%E5%A5%96%E5%8A%B1%E9%A1%B9%E5%9B%BA%E5%AE%9A%E5%B1%95%E7%A4%BA%E8%BF%99%E4%B8%89%E4%B8%AA%E6%A3%8B%E5%AD%90.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/045_%E5%A5%96%E5%8A%B1%E9%A1%B9%E5%9B%BA%E5%AE%9A%E5%B1%95%E7%A4%BA%E8%BF%99%E4%B8%89%E4%B8%AA%E6%A3%8B%E5%AD%90.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/045_%E5%A5%96%E5%8A%B1%E9%A1%B9%E5%9B%BA%E5%AE%9A%E5%B1%95%E7%A4%BA%E8%BF%99%E4%B8%89%E4%B8%AA%E6%A3%8B%E5%AD%90.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "046_奖励项根据订单目标棋子来生成.jpg",
+      "path": "public/images/046_奖励项根据订单目标棋子来生成.jpg",
+      "publicPath": "images/046_奖励项根据订单目标棋子来生成.jpg",
+      "bytes": 94878,
+      "sha256": "8cd897148c3cea99cf7580b2c69eb0a72a6954f6f69cbf4a97f64c48265b8dc0",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/046_%E5%A5%96%E5%8A%B1%E9%A1%B9%E6%A0%B9%E6%8D%AE%E8%AE%A2%E5%8D%95%E7%9B%AE%E6%A0%87%E6%A3%8B%E5%AD%90%E6%9D%A5%E7%94%9F%E6%88%90.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/046_%E5%A5%96%E5%8A%B1%E9%A1%B9%E6%A0%B9%E6%8D%AE%E8%AE%A2%E5%8D%95%E7%9B%AE%E6%A0%87%E6%A3%8B%E5%AD%90%E6%9D%A5%E7%94%9F%E6%88%90.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/046_%E5%A5%96%E5%8A%B1%E9%A1%B9%E6%A0%B9%E6%8D%AE%E8%AE%A2%E5%8D%95%E7%9B%AE%E6%A0%87%E6%A3%8B%E5%AD%90%E6%9D%A5%E7%94%9F%E6%88%90.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "047_image.png",
+      "path": "public/images/047_image.png",
+      "publicPath": "images/047_image.png",
+      "bytes": 345456,
+      "sha256": "acc3e38fd189f371bc590610d12490ca1c6f023bd28ecd4715118cb399d0afca",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/047_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/047_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/047_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "048_金币棋子.jpg",
+      "path": "public/images/048_金币棋子.jpg",
+      "publicPath": "images/048_金币棋子.jpg",
+      "bytes": 209357,
+      "sha256": "f77d8e617b23fabc8bf4afbe019a02af1b0057589be659c3033be8992b0ab87f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/048_%E9%87%91%E5%B8%81%E6%A3%8B%E5%AD%90.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/048_%E9%87%91%E5%B8%81%E6%A3%8B%E5%AD%90.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/048_%E9%87%91%E5%B8%81%E6%A3%8B%E5%AD%90.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "049_钻石棋子.jpg",
+      "path": "public/images/049_钻石棋子.jpg",
+      "publicPath": "images/049_钻石棋子.jpg",
+      "bytes": 204284,
+      "sha256": "4e8e2370b2b999f6f9acddc79a3dbd4d79698e849994e05e47c4750ab79d0565",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/049_%E9%92%BB%E7%9F%B3%E6%A3%8B%E5%AD%90.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/049_%E9%92%BB%E7%9F%B3%E6%A3%8B%E5%AD%90.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/049_%E9%92%BB%E7%9F%B3%E6%A3%8B%E5%AD%90.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "050_能量棋子.jpg",
+      "path": "public/images/050_能量棋子.jpg",
+      "publicPath": "images/050_能量棋子.jpg",
+      "bytes": 216817,
+      "sha256": "4c99d8c0810ab0e5a4c7005cc9530c9d682975c5367e087fac21b4f54ffd068a",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/050_%E8%83%BD%E9%87%8F%E6%A3%8B%E5%AD%90.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/050_%E8%83%BD%E9%87%8F%E6%A3%8B%E5%AD%90.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/050_%E8%83%BD%E9%87%8F%E6%A3%8B%E5%AD%90.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "051_气泡棋子信息.jpg",
+      "path": "public/images/051_气泡棋子信息.jpg",
+      "publicPath": "images/051_气泡棋子信息.jpg",
+      "bytes": 459807,
+      "sha256": "41bbaa1958e99f2869350a158bb7415082eafe3b0d39e00125c847757afe0051",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/051_%E6%B0%94%E6%B3%A1%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/051_%E6%B0%94%E6%B3%A1%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/051_%E6%B0%94%E6%B3%A1%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "052_Break确认弹框.jpg",
+      "path": "public/images/052_Break确认弹框.jpg",
+      "publicPath": "images/052_Break确认弹框.jpg",
+      "bytes": 146437,
+      "sha256": "da721c74cb0237ccf3e08ad3cbf8cb1e2c90c0685a0d05ee9683fd8ee360c3fd",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/052_Break%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/052_Break%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/052_Break%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "053_购买确认弹框.jpg",
+      "path": "public/images/053_购买确认弹框.jpg",
+      "publicPath": "images/053_购买确认弹框.jpg",
+      "bytes": 132460,
+      "sha256": "29ff63af3bc40d70df7f552e04dec12ec2875a81064436eaa6fd2b6ce2485035",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/053_%E8%B4%AD%E4%B9%B0%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/053_%E8%B4%AD%E4%B9%B0%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/053_%E8%B4%AD%E4%B9%B0%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "054_冰封棋子信息.jpg",
+      "path": "public/images/054_冰封棋子信息.jpg",
+      "publicPath": "images/054_冰封棋子信息.jpg",
+      "bytes": 495576,
+      "sha256": "58f53bcf3898319da451f935370879ce4271a90541b717398980af382cabee17",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/054_%E5%86%B0%E5%B0%81%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/054_%E5%86%B0%E5%B0%81%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/054_%E5%86%B0%E5%B0%81%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "055_常规日常订单.png",
+      "path": "public/images/055_常规日常订单.png",
+      "publicPath": "images/055_常规日常订单.png",
+      "bytes": 652775,
+      "sha256": "abbac8f239392edce61beffaa044e61c6253c7b92d3d742b90a209145050ba85",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/055_%E5%B8%B8%E8%A7%84%E6%97%A5%E5%B8%B8%E8%AE%A2%E5%8D%95.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/055_%E5%B8%B8%E8%A7%84%E6%97%A5%E5%B8%B8%E8%AE%A2%E5%8D%95.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/055_%E5%B8%B8%E8%A7%84%E6%97%A5%E5%B8%B8%E8%AE%A2%E5%8D%95.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "056_常驻订单.png",
+      "path": "public/images/056_常驻订单.png",
+      "publicPath": "images/056_常驻订单.png",
+      "bytes": 646590,
+      "sha256": "810a05a7322150c330ab5e1658e755e1cee9dde634eee910d0ef8a057d94a8bc",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/056_%E5%B8%B8%E9%A9%BB%E8%AE%A2%E5%8D%95.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/056_%E5%B8%B8%E9%A9%BB%E8%AE%A2%E5%8D%95.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/056_%E5%B8%B8%E9%A9%BB%E8%AE%A2%E5%8D%95.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "057_周期性限时订单.png",
+      "path": "public/images/057_周期性限时订单.png",
+      "publicPath": "images/057_周期性限时订单.png",
+      "bytes": 528265,
+      "sha256": "aee6684cbac51f5e07d7f88fe51f772f79901b37fc7b7c7239800be5e83e004c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/057_%E5%91%A8%E6%9C%9F%E6%80%A7%E9%99%90%E6%97%B6%E8%AE%A2%E5%8D%95.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/057_%E5%91%A8%E6%9C%9F%E6%80%A7%E9%99%90%E6%97%B6%E8%AE%A2%E5%8D%95.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/057_%E5%91%A8%E6%9C%9F%E6%80%A7%E9%99%90%E6%97%B6%E8%AE%A2%E5%8D%95.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "058_奖励型订单.png",
+      "path": "public/images/058_奖励型订单.png",
+      "publicPath": "images/058_奖励型订单.png",
+      "bytes": 540899,
+      "sha256": "d1cafb37bd89988b8619fe54bf19a5ac47dba58fa3db837fe36871753546c9c7",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/058_%E5%A5%96%E5%8A%B1%E5%9E%8B%E8%AE%A2%E5%8D%95.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/058_%E5%A5%96%E5%8A%B1%E5%9E%8B%E8%AE%A2%E5%8D%95.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/058_%E5%A5%96%E5%8A%B1%E5%9E%8B%E8%AE%A2%E5%8D%95.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "059.png",
+      "path": "public/images/059.png",
+      "publicPath": "images/059.png",
+      "bytes": 609727,
+      "sha256": "5402592be3263161c09dae77c2bd834819a1a480ea98c909e616e100e906702f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/059.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/059.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/059.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "060_image.png",
+      "path": "public/images/060_image.png",
+      "publicPath": "images/060_image.png",
+      "bytes": 705676,
+      "sha256": "c81b65b646e0c8778b887c3fd8842a0e52ad5816f7b6256dc6163a5bda8c933f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/060_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/060_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/060_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "061.png",
+      "path": "public/images/061.png",
+      "publicPath": "images/061.png",
+      "bytes": 30942,
+      "sha256": "35f62947bfbc342843fade9992a880a442cb7bcc68a224e0fd7bec6b82db2be2",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/061.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/061.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/061.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "062_image.png",
+      "path": "public/images/062_image.png",
+      "publicPath": "images/062_image.png",
+      "bytes": 42015,
+      "sha256": "0ff5dfbca26fb79e85b78062caf80d02eaad58f357ce1960a6b3d513ee1d7eef",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/062_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/062_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/062_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "063_image.png",
+      "path": "public/images/063_image.png",
+      "publicPath": "images/063_image.png",
+      "bytes": 37143,
+      "sha256": "3c1c7aa1fceecafa09218d946e4020c103964949fb9c979c445a584db8d28eb6",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/063_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/063_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/063_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "064_image.png",
+      "path": "public/images/064_image.png",
+      "publicPath": "images/064_image.png",
+      "bytes": 34685,
+      "sha256": "8914d639a24a3efe25f667924dfde96f939254cd070717f47808745c7a1164d8",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/064_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/064_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/064_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "065_image.png",
+      "path": "public/images/065_image.png",
+      "publicPath": "images/065_image.png",
+      "bytes": 80670,
+      "sha256": "6f9ce8ba5a30cb5f914068b478b41ea04e988f13657e8bd551e2ff4a8bd7551c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/065_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/065_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/065_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "066_image.png",
+      "path": "public/images/066_image.png",
+      "publicPath": "images/066_image.png",
+      "bytes": 72168,
+      "sha256": "4b1d71be66592cbbd74c299cf93f242ce7907e5d783931f496d1274bb0b01366",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/066_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/066_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/066_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "067_image.png",
+      "path": "public/images/067_image.png",
+      "publicPath": "images/067_image.png",
+      "bytes": 89861,
+      "sha256": "fda858c305d2112aca210f770d4a76293e7deb16a1642f5a6c8767355cc2699b",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/067_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/067_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/067_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "068_image.png",
+      "path": "public/images/068_image.png",
+      "publicPath": "images/068_image.png",
+      "bytes": 103738,
+      "sha256": "da6e00dc395be917784c98aae33458736b6c625e1f22febbc238e05ba66eaeac",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/068_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/068_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/068_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "069_image.png",
+      "path": "public/images/069_image.png",
+      "publicPath": "images/069_image.png",
+      "bytes": 65712,
+      "sha256": "bbf279f39f6cd771980268d6387eefb5d9d51514f9c02008d08ccaab4c420291",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/069_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/069_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/069_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "070_image.png",
+      "path": "public/images/070_image.png",
+      "publicPath": "images/070_image.png",
+      "bytes": 51432,
+      "sha256": "67352149f66ace857b63751e43377b5c54b74c631ae77c7c86f34af6b92c4354",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/070_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/070_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/070_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "071_image.png",
+      "path": "public/images/071_image.png",
+      "publicPath": "images/071_image.png",
+      "bytes": 519044,
+      "sha256": "f87e134d426b145527d271fbe3f4d607cd2505be499f6658f68b794bba9a351c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/071_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/071_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/071_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "072_image.png",
+      "path": "public/images/072_image.png",
+      "publicPath": "images/072_image.png",
+      "bytes": 257986,
+      "sha256": "f1e19f510cc373c40de58de1a4819b3d2918c9cc403493e768c0b84e7a063ce6",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/072_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/072_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/072_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "073_image.png",
+      "path": "public/images/073_image.png",
+      "publicPath": "images/073_image.png",
+      "bytes": 357017,
+      "sha256": "ddd8a083339a8d2c12a79c9391dc0989be182ccd25ffedc13abfdce818734c34",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/073_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/073_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/073_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "074_image.png",
+      "path": "public/images/074_image.png",
+      "publicPath": "images/074_image.png",
+      "bytes": 27517,
+      "sha256": "ab716c1366e140f8a13093d9cd92a5aabe7432ff7f4aae002cf30d562be080fd",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/074_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/074_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/074_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "075_image.png",
+      "path": "public/images/075_image.png",
+      "publicPath": "images/075_image.png",
+      "bytes": 410521,
+      "sha256": "b55f39584e3bfb8baa28993d3d149a7fba230d302c8cc61fc6099bac898ce565",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/075_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/075_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/075_image.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "076_image.png",
+      "path": "public/images/076_image.png",
+      "publicPath": "images/076_image.png",
+      "bytes": 710329,
+      "sha256": "2a66d0a62d0c62ca43936f36446193c195637b4fff5f301bc42b1f8a03d09888",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/076_image.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/076_image.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/076_image.png"
+      }
+    }
+  ],
+  "mapping": {
+    "public/images/001_棋盘空间.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/001_%E6%A3%8B%E7%9B%98%E7%A9%BA%E9%97%B4.jpg",
+    "public/images/002_库存空间.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/002_%E5%BA%93%E5%AD%98%E7%A9%BA%E9%97%B4.jpg",
+    "public/images/003_果盘.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/003_%E6%9E%9C%E7%9B%98.png",
+    "public/images/004_相机.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/004_%E7%9B%B8%E6%9C%BA.png",
+    "public/images/005_圣诞礼盒.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/005_%E5%9C%A3%E8%AF%9E%E7%A4%BC%E7%9B%92.png",
+    "public/images/006_缝纫机.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/006_%E7%BC%9D%E7%BA%AB%E6%9C%BA.png",
+    "public/images/007_猫窝.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/007_%E7%8C%AB%E7%AA%9D.png",
+    "public/images/008_可生长植物的陶罐.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/008_%E5%8F%AF%E7%94%9F%E9%95%BF%E6%A4%8D%E7%89%A9%E7%9A%84%E9%99%B6%E7%BD%90.png",
+    "public/images/009_礼盒.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/009_%E7%A4%BC%E7%9B%92.png",
+    "public/images/010_欢乐庆典蛋糕.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/010_%E6%AC%A2%E4%B9%90%E5%BA%86%E5%85%B8%E8%9B%8B%E7%B3%95.png",
+    "public/images/011_低于_100_时开始自动恢复.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/011_%E4%BD%8E%E4%BA%8E_100_%E6%97%B6%E5%BC%80%E5%A7%8B%E8%87%AA%E5%8A%A8%E6%81%A2%E5%A4%8D.png",
+    "public/images/012_达到_100_后，不再恢复.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/012_%E8%BE%BE%E5%88%B0_100_%E5%90%8E%EF%BC%8C%E4%B8%8D%E5%86%8D%E6%81%A2%E5%A4%8D.png",
+    "public/images/013_关闭多倍率_每次生产消耗能量1.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/013_%E5%85%B3%E9%97%AD%E5%A4%9A%E5%80%8D%E7%8E%87_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F1.png",
+    "public/images/014_开启2倍消耗_每次生产消耗能量2_棋子等级+1.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/014_%E5%BC%80%E5%90%AF2%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F2_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B1.png",
+    "public/images/015_开启4倍消耗_每次生产消耗能量4_棋子等级+2.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/015_%E5%BC%80%E5%90%AF4%E5%80%8D%E6%B6%88%E8%80%97_%E6%AF%8F%E6%AC%A1%E7%94%9F%E4%BA%A7%E6%B6%88%E8%80%97%E8%83%BD%E9%87%8F4_%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%2B2.png",
+    "public/images/016_基础棋子等级链.jpeg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/016_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg",
+    "public/images/017_生成器的等级链.jpeg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/017_%E7%94%9F%E6%88%90%E5%99%A8%E7%9A%84%E7%AD%89%E7%BA%A7%E9%93%BE.jpeg",
+    "public/images/018.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/018.png",
+    "public/images/019.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/019.png",
+    "public/images/020_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/020_image.png",
+    "public/images/021_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/021_image.png",
+    "public/images/022_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/022_image.png",
+    "public/images/023_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/023_image.png",
+    "public/images/024_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/024_image.png",
+    "public/images/025_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/025_image.png",
+    "public/images/026_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/026_image.png",
+    "public/images/027_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/027_image.png",
+    "public/images/028_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/028_image.png",
+    "public/images/029_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/029_image.png",
+    "public/images/030_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/030_image.png",
+    "public/images/031_上锁宝箱，开启前.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/031_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%89%8D.jpg",
+    "public/images/032_上锁宝箱，开启中.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/032_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E4%B8%AD.jpg",
+    "public/images/033_上锁宝箱，开启后.jpeg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/033_%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1%EF%BC%8C%E5%BC%80%E5%90%AF%E5%90%8E.jpeg",
+    "public/images/034_不上锁宝箱.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/034_%E4%B8%8D%E4%B8%8A%E9%94%81%E5%AE%9D%E7%AE%B1.jpg",
+    "public/images/035_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/035_image.png",
+    "public/images/036_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/036_image.png",
+    "public/images/037_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/037_image.png",
+    "public/images/038_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/038_image.png",
+    "public/images/039_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/039_image.png",
+    "public/images/040_能量箱.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/040_%E8%83%BD%E9%87%8F%E7%AE%B1.png",
+    "public/images/041_金币存钱罐.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/041_%E9%87%91%E5%B8%81%E5%AD%98%E9%92%B1%E7%BD%90.png",
+    "public/images/042_金币能量宝箱.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/042_%E9%87%91%E5%B8%81%E8%83%BD%E9%87%8F%E5%AE%9D%E7%AE%B1.png",
+    "public/images/043_基础棋子宝箱.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/043_%E5%9F%BA%E7%A1%80%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png",
+    "public/images/044_生成器棋子宝箱.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/044_%E7%94%9F%E6%88%90%E5%99%A8%E6%A3%8B%E5%AD%90%E5%AE%9D%E7%AE%B1.png",
+    "public/images/045_奖励项固定展示这三个棋子.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/045_%E5%A5%96%E5%8A%B1%E9%A1%B9%E5%9B%BA%E5%AE%9A%E5%B1%95%E7%A4%BA%E8%BF%99%E4%B8%89%E4%B8%AA%E6%A3%8B%E5%AD%90.jpg",
+    "public/images/046_奖励项根据订单目标棋子来生成.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/046_%E5%A5%96%E5%8A%B1%E9%A1%B9%E6%A0%B9%E6%8D%AE%E8%AE%A2%E5%8D%95%E7%9B%AE%E6%A0%87%E6%A3%8B%E5%AD%90%E6%9D%A5%E7%94%9F%E6%88%90.jpg",
+    "public/images/047_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/047_image.png",
+    "public/images/048_金币棋子.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/048_%E9%87%91%E5%B8%81%E6%A3%8B%E5%AD%90.jpg",
+    "public/images/049_钻石棋子.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/049_%E9%92%BB%E7%9F%B3%E6%A3%8B%E5%AD%90.jpg",
+    "public/images/050_能量棋子.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/050_%E8%83%BD%E9%87%8F%E6%A3%8B%E5%AD%90.jpg",
+    "public/images/051_气泡棋子信息.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/051_%E6%B0%94%E6%B3%A1%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg",
+    "public/images/052_Break确认弹框.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/052_Break%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg",
+    "public/images/053_购买确认弹框.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/053_%E8%B4%AD%E4%B9%B0%E7%A1%AE%E8%AE%A4%E5%BC%B9%E6%A1%86.jpg",
+    "public/images/054_冰封棋子信息.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/054_%E5%86%B0%E5%B0%81%E6%A3%8B%E5%AD%90%E4%BF%A1%E6%81%AF.jpg",
+    "public/images/055_常规日常订单.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/055_%E5%B8%B8%E8%A7%84%E6%97%A5%E5%B8%B8%E8%AE%A2%E5%8D%95.png",
+    "public/images/056_常驻订单.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/056_%E5%B8%B8%E9%A9%BB%E8%AE%A2%E5%8D%95.png",
+    "public/images/057_周期性限时订单.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/057_%E5%91%A8%E6%9C%9F%E6%80%A7%E9%99%90%E6%97%B6%E8%AE%A2%E5%8D%95.png",
+    "public/images/058_奖励型订单.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/058_%E5%A5%96%E5%8A%B1%E5%9E%8B%E8%AE%A2%E5%8D%95.png",
+    "public/images/059.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/059.png",
+    "public/images/060_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/060_image.png",
+    "public/images/061.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/061.png",
+    "public/images/062_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/062_image.png",
+    "public/images/063_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/063_image.png",
+    "public/images/064_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/064_image.png",
+    "public/images/065_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/065_image.png",
+    "public/images/066_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/066_image.png",
+    "public/images/067_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/067_image.png",
+    "public/images/068_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/068_image.png",
+    "public/images/069_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/069_image.png",
+    "public/images/070_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/070_image.png",
+    "public/images/071_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/071_image.png",
+    "public/images/072_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/072_image.png",
+    "public/images/073_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/073_image.png",
+    "public/images/074_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/074_image.png",
+    "public/images/075_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/075_image.png",
+    "public/images/076_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/076_image.png"
+  }
+}

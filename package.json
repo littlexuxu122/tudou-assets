@@ -1,0 +1,16 @@
+{
+  "name": "tudou-image-bed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "一个基于 GitHub + jsDelivr 的轻量图床整理与链接生成工具。",
+  "scripts": {
+    "prepare-assets": "node src/tudou.mjs prepare",
+    "build": "node src/tudou.mjs build",
+    "gallery": "node src/tudou.mjs gallery",
+    "publish-help": "node src/tudou.mjs publish-help"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

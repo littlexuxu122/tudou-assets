@@ -1,6 +1,6 @@
 # 图兜资源清单
 
-生成时间：2026/5/29 11:28:01
+生成时间：2026/5/29 11:31:49
 
 | 类型 | 本地路径 | 大小 | jsDelivr URL |
 |---|---:|---:|---|
@@ -86,6 +86,11 @@
 | image | `public/images/daily-bonus-03.jpg` | 148.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-03.jpg |
 | image | `public/images/daily-bonus-04.jpg` | 157.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-04.jpg |
 | image | `public/images/daily-bonus-05.jpg` | 209.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-05.jpg |
+| image | `public/images/db-intro-01.jpg` | 206.9 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-01.jpg |
+| image | `public/images/db-intro-02.jpg` | 206.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-02.jpg |
+| image | `public/images/db-intro-03.jpg` | 148.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-03.jpg |
+| image | `public/images/db-intro-04.jpg` | 157.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-04.jpg |
+| image | `public/images/db-intro-05.jpg` | 209.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-05.jpg |
 | image | `public/images/feature-lv01.png` | 142.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv01.png |
 | image | `public/images/feature-lv02.png` | 110.0 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv02.png |
 | image | `public/images/feature-lv03.png` | 173.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv03.png |

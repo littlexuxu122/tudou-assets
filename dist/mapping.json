@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T03:28:01.553Z",
+  "generatedAt": "2026-05-29T03:31:49.208Z",
   "assets": [
     {
       "type": "image",
@@ -1065,6 +1065,71 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-05.jpg",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/daily-bonus-05.jpg",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/daily-bonus-05.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "db-intro-01.jpg",
+      "path": "public/images/db-intro-01.jpg",
+      "publicPath": "images/db-intro-01.jpg",
+      "bytes": 211905,
+      "sha256": "fbaa21a1e559ad16f9fe94d2af910a6b85251353fedc5bbe976ecdaa982d6106",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-01.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/db-intro-01.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/db-intro-01.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "db-intro-02.jpg",
+      "path": "public/images/db-intro-02.jpg",
+      "publicPath": "images/db-intro-02.jpg",
+      "bytes": 211809,
+      "sha256": "102c7ce77c4e9fbd56b5ffb523b34073843ef8428b3fa1d728fad5a9ad1c2ba5",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-02.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/db-intro-02.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/db-intro-02.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "db-intro-03.jpg",
+      "path": "public/images/db-intro-03.jpg",
+      "publicPath": "images/db-intro-03.jpg",
+      "bytes": 152320,
+      "sha256": "c88de22038690fa9bdfcbc5db02c97aee1593babeeced0e0a33ec2ee7b3b8905",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-03.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/db-intro-03.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/db-intro-03.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "db-intro-04.jpg",
+      "path": "public/images/db-intro-04.jpg",
+      "publicPath": "images/db-intro-04.jpg",
+      "bytes": 161572,
+      "sha256": "a58578aad9f632b9309064c6c5afe97f28489ceda21d66a38e15817519066f3c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-04.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/db-intro-04.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/db-intro-04.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "db-intro-05.jpg",
+      "path": "public/images/db-intro-05.jpg",
+      "publicPath": "images/db-intro-05.jpg",
+      "bytes": 214282,
+      "sha256": "f3b0d04d743f864b6e854ed56a7feed31765aa73fa6a257372b87b6b8f204dd5",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-05.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/db-intro-05.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/db-intro-05.jpg"
       }
     },
     {
@@ -2217,6 +2282,11 @@
     "public/images/daily-bonus-03.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-03.jpg",
     "public/images/daily-bonus-04.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-04.jpg",
     "public/images/daily-bonus-05.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-05.jpg",
+    "public/images/db-intro-01.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-01.jpg",
+    "public/images/db-intro-02.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-02.jpg",
+    "public/images/db-intro-03.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-03.jpg",
+    "public/images/db-intro-04.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-04.jpg",
+    "public/images/db-intro-05.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/db-intro-05.jpg",
     "public/images/feature-lv01.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv01.png",
     "public/images/feature-lv02.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv02.png",
     "public/images/feature-lv03.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv03.png",

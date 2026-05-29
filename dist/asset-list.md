@@ -1,6 +1,6 @@
 # 图兜资源清单
 
-生成时间：2026/5/29 10:31:54
+生成时间：2026/5/29 10:37:48
 
 | 类型 | 本地路径 | 大小 | jsDelivr URL |
 |---|---:|---:|---|
@@ -112,24 +112,43 @@
 | image | `public/images/rating-01.png` | 581.4 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-01.png |
 | image | `public/images/rating-02.png` | 533.6 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-02.png |
 | image | `public/images/rating-03.png` | 173.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-03.png |
+| image | `public/images/sb-01-lv2-diamond-reward.png` | 77.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond-reward.png |
 | image | `public/images/sb-01-lv2-diamond.png` | 77.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond.png |
+| image | `public/images/sb-02-task-diamond-energy-reward.png` | 84.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-02-task-diamond-energy-reward.png |
 | image | `public/images/sb-02-task-diamond-energy.png` | 601.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-02-task-diamond-energy.png |
+| image | `public/images/sb-03-lv4-chest-reward.png` | 78.5 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest-reward.png |
 | image | `public/images/sb-03-lv4-chest.png` | 556.6 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest.png |
+| image | `public/images/sb-04-lv5-chest-reward.png` | 67.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-04-lv5-chest-reward.png |
 | image | `public/images/sb-04-lv5-chest.png` | 571.4 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-04-lv5-chest.png |
+| image | `public/images/sb-05-lv6-cardpack2-reward.png` | 78.6 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2-reward.png |
 | image | `public/images/sb-05-lv6-cardpack2.png` | 582.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2.png |
+| image | `public/images/sb-06-lv7-cardpack3-reward.png` | 83.6 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-06-lv7-cardpack3-reward.png |
 | image | `public/images/sb-06-lv7-cardpack3.png` | 83.6 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-06-lv7-cardpack3.png |
+| image | `public/images/sb-07-lv8-cardpack3-reward.png` | 75.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3-reward.png |
 | image | `public/images/sb-07-lv8-cardpack3.png` | 583.1 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3.png |
+| image | `public/images/sb-08-lv9-cardpack4-reward.png` | 78.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-08-lv9-cardpack4-reward.png |
 | image | `public/images/sb-08-lv9-cardpack4.png` | 580.5 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-08-lv9-cardpack4.png |
+| image | `public/images/sb-09-lv10-cardpack5-reward.png` | 77.5 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5-reward.png |
 | image | `public/images/sb-09-lv10-cardpack5.png` | 596.1 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5.png |
+| image | `public/images/sb-10-lv11-chest-reward.png` | 84.4 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-10-lv11-chest-reward.png |
 | image | `public/images/sb-10-lv11-chest.png` | 572.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-10-lv11-chest.png |
+| image | `public/images/sb-11-lv12-cardpackXL3-reward.png` | 119.0 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3-reward.png |
 | image | `public/images/sb-11-lv12-cardpackXL3.png` | 574.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3.png |
+| image | `public/images/sb-12-lv13-cardpack4-reward.png` | 74.4 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-12-lv13-cardpack4-reward.png |
 | image | `public/images/sb-12-lv13-cardpack4.png` | 1.1 MB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-12-lv13-cardpack4.png |
+| image | `public/images/sb-13-lv14-chest-reward.png` | 70.5 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest-reward.png |
 | image | `public/images/sb-13-lv14-chest.png` | 581.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest.png |
+| image | `public/images/sb-14-lv15-cardpack5-reward.png` | 116.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-14-lv15-cardpack5-reward.png |
 | image | `public/images/sb-14-lv15-cardpack5.png` | 569.4 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-14-lv15-cardpack5.png |
+| image | `public/images/sb-15-lv16-cardpackXL4-reward.png` | 127.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4-reward.png |
 | image | `public/images/sb-15-lv16-cardpackXL4.png` | 1.1 MB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4.png |
+| image | `public/images/sb-16-lv17-hourglass-reward.png` | 118.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-16-lv17-hourglass-reward.png |
 | image | `public/images/sb-16-lv17-hourglass.png` | 1.1 MB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-16-lv17-hourglass.png |
+| image | `public/images/sb-17-lv18-scissors-reward.png` | 124.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-17-lv18-scissors-reward.png |
 | image | `public/images/sb-17-lv18-scissors.png` | 1.1 MB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-17-lv18-scissors.png |
+| image | `public/images/sb-18-lv19-cardpackXL5-reward.png` | 133.6 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5-reward.png |
 | image | `public/images/sb-18-lv19-cardpackXL5.png` | 1.1 MB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5.png |
+| image | `public/images/sb-19-lv20-ordercase-reward.png` | 127.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-19-lv20-ordercase-reward.png |
 | image | `public/images/sb-19-lv20-ordercase.png` | 1.1 MB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-19-lv20-ordercase.png |
 | image | `public/images/upgrade-offer-lv11.png` | 230.1 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv11.png |
 | image | `public/images/upgrade-offer-lv13.png` | 219.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv13.png |

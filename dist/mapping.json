@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T02:31:54.216Z",
+  "generatedAt": "2026-05-29T02:37:48.454Z",
   "assets": [
     {
       "type": "image",
@@ -1407,6 +1407,19 @@
     },
     {
       "type": "image",
+      "name": "sb-01-lv2-diamond-reward.png",
+      "path": "public/images/sb-01-lv2-diamond-reward.png",
+      "publicPath": "images/sb-01-lv2-diamond-reward.png",
+      "bytes": 79524,
+      "sha256": "54446d045e845934fef509ff0f2897e11e7d53878e5e136821ef52320a922206",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-01-lv2-diamond-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-01-lv2-diamond-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-01-lv2-diamond.png",
       "path": "public/images/sb-01-lv2-diamond.png",
       "publicPath": "images/sb-01-lv2-diamond.png",
@@ -1416,6 +1429,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-01-lv2-diamond.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-01-lv2-diamond.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-02-task-diamond-energy-reward.png",
+      "path": "public/images/sb-02-task-diamond-energy-reward.png",
+      "publicPath": "images/sb-02-task-diamond-energy-reward.png",
+      "bytes": 86234,
+      "sha256": "da4adc690e7d649a2a6924b1b5769b20eef4c6817d06341e9db4d99c8b8dba5a",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-02-task-diamond-energy-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-02-task-diamond-energy-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-02-task-diamond-energy-reward.png"
       }
     },
     {
@@ -1433,6 +1459,19 @@
     },
     {
       "type": "image",
+      "name": "sb-03-lv4-chest-reward.png",
+      "path": "public/images/sb-03-lv4-chest-reward.png",
+      "publicPath": "images/sb-03-lv4-chest-reward.png",
+      "bytes": 80376,
+      "sha256": "8f27c8b6a35a69cb0f17171d9996b9f3b3d48352f0823f7d476d9b5e72b0f9c8",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-03-lv4-chest-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-03-lv4-chest-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-03-lv4-chest.png",
       "path": "public/images/sb-03-lv4-chest.png",
       "publicPath": "images/sb-03-lv4-chest.png",
@@ -1442,6 +1481,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-03-lv4-chest.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-03-lv4-chest.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-04-lv5-chest-reward.png",
+      "path": "public/images/sb-04-lv5-chest-reward.png",
+      "publicPath": "images/sb-04-lv5-chest-reward.png",
+      "bytes": 68899,
+      "sha256": "cd15c013288fd7a3e990f01b6614f62c8ec32c284a2767eb14103856b76e97b9",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-04-lv5-chest-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-04-lv5-chest-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-04-lv5-chest-reward.png"
       }
     },
     {
@@ -1459,6 +1511,19 @@
     },
     {
       "type": "image",
+      "name": "sb-05-lv6-cardpack2-reward.png",
+      "path": "public/images/sb-05-lv6-cardpack2-reward.png",
+      "publicPath": "images/sb-05-lv6-cardpack2-reward.png",
+      "bytes": 80524,
+      "sha256": "f6b8c358b62eb9aff0d81fb9aac3fa06616ede62169777cede542c28199755d0",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-05-lv6-cardpack2-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-05-lv6-cardpack2-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-05-lv6-cardpack2.png",
       "path": "public/images/sb-05-lv6-cardpack2.png",
       "publicPath": "images/sb-05-lv6-cardpack2.png",
@@ -1468,6 +1533,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-05-lv6-cardpack2.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-05-lv6-cardpack2.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-06-lv7-cardpack3-reward.png",
+      "path": "public/images/sb-06-lv7-cardpack3-reward.png",
+      "publicPath": "images/sb-06-lv7-cardpack3-reward.png",
+      "bytes": 85590,
+      "sha256": "d685ff93fff372f68b13e97d4d6d1daf63788acc8b0d971cd5ca10db8cb59600",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-06-lv7-cardpack3-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-06-lv7-cardpack3-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-06-lv7-cardpack3-reward.png"
       }
     },
     {
@@ -1485,6 +1563,19 @@
     },
     {
       "type": "image",
+      "name": "sb-07-lv8-cardpack3-reward.png",
+      "path": "public/images/sb-07-lv8-cardpack3-reward.png",
+      "publicPath": "images/sb-07-lv8-cardpack3-reward.png",
+      "bytes": 77525,
+      "sha256": "8694e0d5c300b8da6d12af59870106b0553efbb5def93ca39b761498f1f8adba",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-07-lv8-cardpack3-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-07-lv8-cardpack3-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-07-lv8-cardpack3.png",
       "path": "public/images/sb-07-lv8-cardpack3.png",
       "publicPath": "images/sb-07-lv8-cardpack3.png",
@@ -1494,6 +1585,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-07-lv8-cardpack3.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-07-lv8-cardpack3.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-08-lv9-cardpack4-reward.png",
+      "path": "public/images/sb-08-lv9-cardpack4-reward.png",
+      "publicPath": "images/sb-08-lv9-cardpack4-reward.png",
+      "bytes": 80221,
+      "sha256": "b4f297462b87b312a7dce569a764a016411aade2036b090a90f4f48936a451fd",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-08-lv9-cardpack4-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-08-lv9-cardpack4-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-08-lv9-cardpack4-reward.png"
       }
     },
     {
@@ -1511,6 +1615,19 @@
     },
     {
       "type": "image",
+      "name": "sb-09-lv10-cardpack5-reward.png",
+      "path": "public/images/sb-09-lv10-cardpack5-reward.png",
+      "publicPath": "images/sb-09-lv10-cardpack5-reward.png",
+      "bytes": 79374,
+      "sha256": "139bf9aece52099173896526816c8dfc5adfce79552eb745fc31b6ece11da1e7",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-09-lv10-cardpack5-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-09-lv10-cardpack5-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-09-lv10-cardpack5.png",
       "path": "public/images/sb-09-lv10-cardpack5.png",
       "publicPath": "images/sb-09-lv10-cardpack5.png",
@@ -1520,6 +1637,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-09-lv10-cardpack5.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-09-lv10-cardpack5.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-10-lv11-chest-reward.png",
+      "path": "public/images/sb-10-lv11-chest-reward.png",
+      "publicPath": "images/sb-10-lv11-chest-reward.png",
+      "bytes": 86424,
+      "sha256": "b1cf3afe52d0fa79ce4e92a19fcf0a81961296d260668baecdaff4ede9029e41",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-10-lv11-chest-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-10-lv11-chest-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-10-lv11-chest-reward.png"
       }
     },
     {
@@ -1537,6 +1667,19 @@
     },
     {
       "type": "image",
+      "name": "sb-11-lv12-cardpackXL3-reward.png",
+      "path": "public/images/sb-11-lv12-cardpackXL3-reward.png",
+      "publicPath": "images/sb-11-lv12-cardpackXL3-reward.png",
+      "bytes": 121870,
+      "sha256": "a3bb63202d0c84e0d03488a07ba8c0d716dd5a7d928ee6e4a71aa149b7f4a096",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-11-lv12-cardpackXL3-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-11-lv12-cardpackXL3-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-11-lv12-cardpackXL3.png",
       "path": "public/images/sb-11-lv12-cardpackXL3.png",
       "publicPath": "images/sb-11-lv12-cardpackXL3.png",
@@ -1546,6 +1689,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-11-lv12-cardpackXL3.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-11-lv12-cardpackXL3.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-12-lv13-cardpack4-reward.png",
+      "path": "public/images/sb-12-lv13-cardpack4-reward.png",
+      "publicPath": "images/sb-12-lv13-cardpack4-reward.png",
+      "bytes": 76192,
+      "sha256": "9dd59fd0897edd644f27728b3896c5027b56969dc19bf1628ef68cdc30bcb899",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-12-lv13-cardpack4-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-12-lv13-cardpack4-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-12-lv13-cardpack4-reward.png"
       }
     },
     {
@@ -1563,6 +1719,19 @@
     },
     {
       "type": "image",
+      "name": "sb-13-lv14-chest-reward.png",
+      "path": "public/images/sb-13-lv14-chest-reward.png",
+      "publicPath": "images/sb-13-lv14-chest-reward.png",
+      "bytes": 72243,
+      "sha256": "d7f7c82944898a2c5a7f77d655c8bce81151d101d43485fb8f06d80b4d655377",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-13-lv14-chest-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-13-lv14-chest-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-13-lv14-chest.png",
       "path": "public/images/sb-13-lv14-chest.png",
       "publicPath": "images/sb-13-lv14-chest.png",
@@ -1572,6 +1741,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-13-lv14-chest.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-13-lv14-chest.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-14-lv15-cardpack5-reward.png",
+      "path": "public/images/sb-14-lv15-cardpack5-reward.png",
+      "publicPath": "images/sb-14-lv15-cardpack5-reward.png",
+      "bytes": 119137,
+      "sha256": "88a50514a39916df823534aeff897d6a3f1aa3c6674b7ae81ac0221d24698b3f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-14-lv15-cardpack5-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-14-lv15-cardpack5-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-14-lv15-cardpack5-reward.png"
       }
     },
     {
@@ -1589,6 +1771,19 @@
     },
     {
       "type": "image",
+      "name": "sb-15-lv16-cardpackXL4-reward.png",
+      "path": "public/images/sb-15-lv16-cardpackXL4-reward.png",
+      "publicPath": "images/sb-15-lv16-cardpackXL4-reward.png",
+      "bytes": 130243,
+      "sha256": "376bb31455bcc4bd0716b75b1824e0b8c93940f34478d0c4c253f89e03edef96",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-15-lv16-cardpackXL4-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-15-lv16-cardpackXL4-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-15-lv16-cardpackXL4.png",
       "path": "public/images/sb-15-lv16-cardpackXL4.png",
       "publicPath": "images/sb-15-lv16-cardpackXL4.png",
@@ -1598,6 +1793,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-15-lv16-cardpackXL4.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-15-lv16-cardpackXL4.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-16-lv17-hourglass-reward.png",
+      "path": "public/images/sb-16-lv17-hourglass-reward.png",
+      "publicPath": "images/sb-16-lv17-hourglass-reward.png",
+      "bytes": 121011,
+      "sha256": "84fefe9f02fdb34cc1d40d5e471c936dcab94ed1e67c2e2a8f9acab9eba7d6ef",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-16-lv17-hourglass-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-16-lv17-hourglass-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-16-lv17-hourglass-reward.png"
       }
     },
     {
@@ -1615,6 +1823,19 @@
     },
     {
       "type": "image",
+      "name": "sb-17-lv18-scissors-reward.png",
+      "path": "public/images/sb-17-lv18-scissors-reward.png",
+      "publicPath": "images/sb-17-lv18-scissors-reward.png",
+      "bytes": 127201,
+      "sha256": "f9e39c7bce6b3dd88c2c2256fdb7fdf0d22a1ee6a6de19fa5b26c8e11ddc72cd",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-17-lv18-scissors-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-17-lv18-scissors-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-17-lv18-scissors-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-17-lv18-scissors.png",
       "path": "public/images/sb-17-lv18-scissors.png",
       "publicPath": "images/sb-17-lv18-scissors.png",
@@ -1628,6 +1849,19 @@
     },
     {
       "type": "image",
+      "name": "sb-18-lv19-cardpackXL5-reward.png",
+      "path": "public/images/sb-18-lv19-cardpackXL5-reward.png",
+      "publicPath": "images/sb-18-lv19-cardpackXL5-reward.png",
+      "bytes": 136811,
+      "sha256": "7ed84af168c48a7b8c0c597e6f017364a4395f2beb13e2d90a9caa3c2a9a60d2",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-18-lv19-cardpackXL5-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-18-lv19-cardpackXL5-reward.png"
+      }
+    },
+    {
+      "type": "image",
       "name": "sb-18-lv19-cardpackXL5.png",
       "path": "public/images/sb-18-lv19-cardpackXL5.png",
       "publicPath": "images/sb-18-lv19-cardpackXL5.png",
@@ -1637,6 +1871,19 @@
         "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5.png",
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-18-lv19-cardpackXL5.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-18-lv19-cardpackXL5.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-19-lv20-ordercase-reward.png",
+      "path": "public/images/sb-19-lv20-ordercase-reward.png",
+      "publicPath": "images/sb-19-lv20-ordercase-reward.png",
+      "bytes": 130777,
+      "sha256": "dfe73379d2ec47dbdb6bfc13702678e1d0a761e2334f80d8aa48514b0ecc7dd2",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-19-lv20-ordercase-reward.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-19-lv20-ordercase-reward.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-19-lv20-ordercase-reward.png"
       }
     },
     {
@@ -1853,24 +2100,43 @@
     "public/images/rating-01.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-01.png",
     "public/images/rating-02.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-02.png",
     "public/images/rating-03.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-03.png",
+    "public/images/sb-01-lv2-diamond-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond-reward.png",
     "public/images/sb-01-lv2-diamond.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond.png",
+    "public/images/sb-02-task-diamond-energy-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-02-task-diamond-energy-reward.png",
     "public/images/sb-02-task-diamond-energy.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-02-task-diamond-energy.png",
+    "public/images/sb-03-lv4-chest-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest-reward.png",
     "public/images/sb-03-lv4-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest.png",
+    "public/images/sb-04-lv5-chest-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-04-lv5-chest-reward.png",
     "public/images/sb-04-lv5-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-04-lv5-chest.png",
+    "public/images/sb-05-lv6-cardpack2-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2-reward.png",
     "public/images/sb-05-lv6-cardpack2.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2.png",
+    "public/images/sb-06-lv7-cardpack3-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-06-lv7-cardpack3-reward.png",
     "public/images/sb-06-lv7-cardpack3.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-06-lv7-cardpack3.png",
+    "public/images/sb-07-lv8-cardpack3-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3-reward.png",
     "public/images/sb-07-lv8-cardpack3.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3.png",
+    "public/images/sb-08-lv9-cardpack4-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-08-lv9-cardpack4-reward.png",
     "public/images/sb-08-lv9-cardpack4.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-08-lv9-cardpack4.png",
+    "public/images/sb-09-lv10-cardpack5-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5-reward.png",
     "public/images/sb-09-lv10-cardpack5.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5.png",
+    "public/images/sb-10-lv11-chest-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-10-lv11-chest-reward.png",
     "public/images/sb-10-lv11-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-10-lv11-chest.png",
+    "public/images/sb-11-lv12-cardpackXL3-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3-reward.png",
     "public/images/sb-11-lv12-cardpackXL3.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3.png",
+    "public/images/sb-12-lv13-cardpack4-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-12-lv13-cardpack4-reward.png",
     "public/images/sb-12-lv13-cardpack4.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-12-lv13-cardpack4.png",
+    "public/images/sb-13-lv14-chest-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest-reward.png",
     "public/images/sb-13-lv14-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest.png",
+    "public/images/sb-14-lv15-cardpack5-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-14-lv15-cardpack5-reward.png",
     "public/images/sb-14-lv15-cardpack5.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-14-lv15-cardpack5.png",
+    "public/images/sb-15-lv16-cardpackXL4-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4-reward.png",
     "public/images/sb-15-lv16-cardpackXL4.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4.png",
+    "public/images/sb-16-lv17-hourglass-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-16-lv17-hourglass-reward.png",
     "public/images/sb-16-lv17-hourglass.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-16-lv17-hourglass.png",
+    "public/images/sb-17-lv18-scissors-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-17-lv18-scissors-reward.png",
     "public/images/sb-17-lv18-scissors.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-17-lv18-scissors.png",
+    "public/images/sb-18-lv19-cardpackXL5-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5-reward.png",
     "public/images/sb-18-lv19-cardpackXL5.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5.png",
+    "public/images/sb-19-lv20-ordercase-reward.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-19-lv20-ordercase-reward.png",
     "public/images/sb-19-lv20-ordercase.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-19-lv20-ordercase.png",
     "public/images/upgrade-offer-lv11.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv11.png",
     "public/images/upgrade-offer-lv13.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv13.png",

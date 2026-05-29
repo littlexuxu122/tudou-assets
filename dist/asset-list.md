@@ -1,6 +1,6 @@
 # 图兜资源清单
 
-生成时间：2026/5/29 10:25:49
+生成时间：2026/5/29 10:31:54
 
 | 类型 | 本地路径 | 大小 | jsDelivr URL |
 |---|---:|---:|---|
@@ -80,6 +80,7 @@
 | image | `public/images/074_image.png` | 26.9 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/074_image.png |
 | image | `public/images/075_image.png` | 400.9 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/075_image.png |
 | image | `public/images/076_image.png` | 693.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/076_image.png |
+| image | `public/images/board-initial.jpg` | 276.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/board-initial.jpg |
 | image | `public/images/daily-bonus-01.jpg` | 206.9 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-01.jpg |
 | image | `public/images/daily-bonus-02.jpg` | 206.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-02.jpg |
 | image | `public/images/daily-bonus-03.jpg` | 148.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-03.jpg |

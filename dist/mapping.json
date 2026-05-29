@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T02:25:49.072Z",
+  "generatedAt": "2026-05-29T02:31:54.216Z",
   "assets": [
     {
       "type": "image",
@@ -991,6 +991,19 @@
     },
     {
       "type": "image",
+      "name": "board-initial.jpg",
+      "path": "public/images/board-initial.jpg",
+      "publicPath": "images/board-initial.jpg",
+      "bytes": 282848,
+      "sha256": "b808589795ba96591ae83e8e2e4c5606d58a49838aa206d21cd7bcc33797f368",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/board-initial.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/board-initial.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/board-initial.jpg"
+      }
+    },
+    {
+      "type": "image",
       "name": "daily-bonus-01.jpg",
       "path": "public/images/daily-bonus-01.jpg",
       "publicPath": "images/daily-bonus-01.jpg",
@@ -1808,6 +1821,7 @@
     "public/images/074_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/074_image.png",
     "public/images/075_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/075_image.png",
     "public/images/076_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/076_image.png",
+    "public/images/board-initial.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/board-initial.jpg",
     "public/images/daily-bonus-01.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-01.jpg",
     "public/images/daily-bonus-02.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-02.jpg",
     "public/images/daily-bonus-03.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-03.jpg",

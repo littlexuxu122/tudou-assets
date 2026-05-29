@@ -1,6 +1,6 @@
 # 图兜资源清单
 
-生成时间：2026/5/29 10:37:48
+生成时间：2026/5/29 11:28:01
 
 | 类型 | 本地路径 | 大小 | jsDelivr URL |
 |---|---:|---:|---|
@@ -86,6 +86,17 @@
 | image | `public/images/daily-bonus-03.jpg` | 148.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-03.jpg |
 | image | `public/images/daily-bonus-04.jpg` | 157.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-04.jpg |
 | image | `public/images/daily-bonus-05.jpg` | 209.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-05.jpg |
+| image | `public/images/feature-lv01.png` | 142.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv01.png |
+| image | `public/images/feature-lv02.png` | 110.0 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv02.png |
+| image | `public/images/feature-lv03.png` | 173.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv03.png |
+| image | `public/images/feature-lv04.jpg` | 463.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv04.jpg |
+| image | `public/images/feature-lv05.png` | 234.4 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv05.png |
+| image | `public/images/feature-lv06.png` | 271.2 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv06.png |
+| image | `public/images/feature-lv08.png` | 213.0 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv08.png |
+| image | `public/images/feature-lv09.png` | 227.7 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv09.png |
+| image | `public/images/feature-lv10.png` | 250.8 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv10.png |
+| image | `public/images/feature-lv14.png` | 556.5 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv14.png |
+| image | `public/images/feature-lv15.png` | 1.2 MB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/feature-lv15.png |
 | image | `public/images/gameplay-01.jpg` | 153.9 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-01.jpg |
 | image | `public/images/gameplay-02.jpg` | 143.3 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-02.jpg |
 | image | `public/images/gameplay-03.jpg` | 135.1 KB | https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-03.jpg |

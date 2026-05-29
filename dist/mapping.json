@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T12:10:02.469Z",
+  "generatedAt": "2026-05-29T02:25:49.072Z",
   "assets": [
     {
       "type": "image",
@@ -988,6 +988,747 @@
         "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/076_image.png",
         "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/076_image.png"
       }
+    },
+    {
+      "type": "image",
+      "name": "daily-bonus-01.jpg",
+      "path": "public/images/daily-bonus-01.jpg",
+      "publicPath": "images/daily-bonus-01.jpg",
+      "bytes": 211905,
+      "sha256": "fbaa21a1e559ad16f9fe94d2af910a6b85251353fedc5bbe976ecdaa982d6106",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-01.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/daily-bonus-01.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/daily-bonus-01.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "daily-bonus-02.jpg",
+      "path": "public/images/daily-bonus-02.jpg",
+      "publicPath": "images/daily-bonus-02.jpg",
+      "bytes": 211809,
+      "sha256": "102c7ce77c4e9fbd56b5ffb523b34073843ef8428b3fa1d728fad5a9ad1c2ba5",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-02.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/daily-bonus-02.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/daily-bonus-02.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "daily-bonus-03.jpg",
+      "path": "public/images/daily-bonus-03.jpg",
+      "publicPath": "images/daily-bonus-03.jpg",
+      "bytes": 152320,
+      "sha256": "c88de22038690fa9bdfcbc5db02c97aee1593babeeced0e0a33ec2ee7b3b8905",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-03.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/daily-bonus-03.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/daily-bonus-03.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "daily-bonus-04.jpg",
+      "path": "public/images/daily-bonus-04.jpg",
+      "publicPath": "images/daily-bonus-04.jpg",
+      "bytes": 161572,
+      "sha256": "a58578aad9f632b9309064c6c5afe97f28489ceda21d66a38e15817519066f3c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-04.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/daily-bonus-04.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/daily-bonus-04.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "daily-bonus-05.jpg",
+      "path": "public/images/daily-bonus-05.jpg",
+      "publicPath": "images/daily-bonus-05.jpg",
+      "bytes": 214282,
+      "sha256": "f3b0d04d743f864b6e854ed56a7feed31765aa73fa6a257372b87b6b8f204dd5",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-05.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/daily-bonus-05.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/daily-bonus-05.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-01.jpg",
+      "path": "public/images/gameplay-01.jpg",
+      "publicPath": "images/gameplay-01.jpg",
+      "bytes": 157596,
+      "sha256": "87bbc6b87e78121fc9f750363ef850184f9ecdf628bc5364d75bce05f31f98d7",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-01.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-01.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-01.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-02.jpg",
+      "path": "public/images/gameplay-02.jpg",
+      "publicPath": "images/gameplay-02.jpg",
+      "bytes": 146760,
+      "sha256": "b337f55c5c33052b74ca7e8fe879b72438bc80c49f0e8bb7f1b9df8b89427b7d",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-02.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-02.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-02.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-03.jpg",
+      "path": "public/images/gameplay-03.jpg",
+      "publicPath": "images/gameplay-03.jpg",
+      "bytes": 138347,
+      "sha256": "d47265b44edd2fbabde71bab8472b28c077fd9e345fb933709b5fa3cc62850c0",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-03.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-03.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-03.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-04.jpg",
+      "path": "public/images/gameplay-04.jpg",
+      "publicPath": "images/gameplay-04.jpg",
+      "bytes": 140989,
+      "sha256": "508e9b0b0c9ab2dbc1d1e041ce122c1668146886399180b45f17e4ed7eb4b265",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-04.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-04.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-04.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-05.jpg",
+      "path": "public/images/gameplay-05.jpg",
+      "publicPath": "images/gameplay-05.jpg",
+      "bytes": 158627,
+      "sha256": "b1014001e1c5deaddfb500ccc5fce2c3f7557d9570c1cd8c9357b68c42c5c039",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-05.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-05.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-05.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-06.jpg",
+      "path": "public/images/gameplay-06.jpg",
+      "publicPath": "images/gameplay-06.jpg",
+      "bytes": 150797,
+      "sha256": "d67d7fef2a72213458b4dd46f12b8cc4a1a6364e14e6e6658f4f2efe88a563be",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-06.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-06.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-06.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-07.jpg",
+      "path": "public/images/gameplay-07.jpg",
+      "publicPath": "images/gameplay-07.jpg",
+      "bytes": 227050,
+      "sha256": "40b0b051dea10ac049c11bc5c12a89fd44e27e6f3c76708f3204d392bc69098d",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-07.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-07.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-07.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-08.jpg",
+      "path": "public/images/gameplay-08.jpg",
+      "publicPath": "images/gameplay-08.jpg",
+      "bytes": 146938,
+      "sha256": "2ca1d1812bc87277f7b72883784cca694559d24065d3a6b02831a8b2fa065257",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-08.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-08.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-08.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-09.jpg",
+      "path": "public/images/gameplay-09.jpg",
+      "publicPath": "images/gameplay-09.jpg",
+      "bytes": 142007,
+      "sha256": "49e2336696a1476d9044ecdf8924a00fe43bda4cc6ee732f92e2b0c860008a6c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-09.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-09.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-09.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-10.jpg",
+      "path": "public/images/gameplay-10.jpg",
+      "publicPath": "images/gameplay-10.jpg",
+      "bytes": 216625,
+      "sha256": "a031d627b834b29a5e46c62d90d7ef31e20f80b3e63296051a56d541b8ab65ff",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-10.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-10.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-10.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-11.jpg",
+      "path": "public/images/gameplay-11.jpg",
+      "publicPath": "images/gameplay-11.jpg",
+      "bytes": 217439,
+      "sha256": "30a6baadea61104cd0899c6f047cfdef9629c2a417f468c83a449ec1196a1f8c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-11.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-11.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-11.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-12.jpg",
+      "path": "public/images/gameplay-12.jpg",
+      "publicPath": "images/gameplay-12.jpg",
+      "bytes": 144157,
+      "sha256": "ca97d2d47cafc9f28b822a1fa0d27624fcda0414f85ca006c3a85ed9b9a41910",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-12.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-12.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-12.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-13.jpg",
+      "path": "public/images/gameplay-13.jpg",
+      "publicPath": "images/gameplay-13.jpg",
+      "bytes": 154412,
+      "sha256": "e5c54f6f3b3c0d9dd63b0a1f8a4b97eba911d0206d76def9a18ab4ae46acc770",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-13.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-13.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-13.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-14.jpg",
+      "path": "public/images/gameplay-14.jpg",
+      "publicPath": "images/gameplay-14.jpg",
+      "bytes": 151747,
+      "sha256": "3e7277d075730b2daf9a3f2137dd2dfe817c66f5deca343a4e3f299b5b36e67f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-14.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-14.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-14.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-15.jpg",
+      "path": "public/images/gameplay-15.jpg",
+      "publicPath": "images/gameplay-15.jpg",
+      "bytes": 144706,
+      "sha256": "b7b89471650804f00e69fffd3176f635d31127420a7f82b79ebf879ccdaf24b0",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-15.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-15.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-15.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-16.jpg",
+      "path": "public/images/gameplay-16.jpg",
+      "publicPath": "images/gameplay-16.jpg",
+      "bytes": 157952,
+      "sha256": "bec4bf5a8f3688a156b410d46fcdf1a007d9064343a343417d774cd1bcfc19d0",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-16.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-16.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-16.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-17.jpg",
+      "path": "public/images/gameplay-17.jpg",
+      "publicPath": "images/gameplay-17.jpg",
+      "bytes": 154436,
+      "sha256": "014f7ca84a6771344c7533832966b65904c63d6f17561ad356243f7bacd5b08f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-17.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-17.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-17.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-18.jpg",
+      "path": "public/images/gameplay-18.jpg",
+      "publicPath": "images/gameplay-18.jpg",
+      "bytes": 153199,
+      "sha256": "ca076fb1848f1ed860855453414329a45314ff988b0909c6c195b47da6379857",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-18.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-18.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-18.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-19.jpg",
+      "path": "public/images/gameplay-19.jpg",
+      "publicPath": "images/gameplay-19.jpg",
+      "bytes": 145063,
+      "sha256": "becd80c100235637d8f3570f256e4ab33009d3a737cd17268fd6dd830c1f86bf",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-19.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-19.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-19.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-20.jpg",
+      "path": "public/images/gameplay-20.jpg",
+      "publicPath": "images/gameplay-20.jpg",
+      "bytes": 143448,
+      "sha256": "a41d95161a3c27d216a5fdbff8714942a8e5afcc3415dcff0c1c37cb346207bb",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-20.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-20.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-20.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "gameplay-21.jpg",
+      "path": "public/images/gameplay-21.jpg",
+      "publicPath": "images/gameplay-21.jpg",
+      "bytes": 149376,
+      "sha256": "8bd135e513959263c6ca1f982cc1ce3df793752a234ff8506422e22f8f110b70",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-21.jpg",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/gameplay-21.jpg",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/gameplay-21.jpg"
+      }
+    },
+    {
+      "type": "image",
+      "name": "notification-01.png",
+      "path": "public/images/notification-01.png",
+      "publicPath": "images/notification-01.png",
+      "bytes": 741320,
+      "sha256": "2ebd4c8e4a352f0eeacfd710f3310aa2af2a4650ca420c4e9d193ad8312aa1ba",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/notification-01.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/notification-01.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/notification-01.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "notification-02.png",
+      "path": "public/images/notification-02.png",
+      "publicPath": "images/notification-02.png",
+      "bytes": 760057,
+      "sha256": "7745864ca60ba113d5948ed3b8f165cee85499e57d300f3ba76618b643c6e64e",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/notification-02.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/notification-02.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/notification-02.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "rating-01.png",
+      "path": "public/images/rating-01.png",
+      "publicPath": "images/rating-01.png",
+      "bytes": 595327,
+      "sha256": "d84ffa1250bb98016ecf782d1217ab9bcf1aae203d86f5fa819a2ac84f91063b",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-01.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/rating-01.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/rating-01.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "rating-02.png",
+      "path": "public/images/rating-02.png",
+      "publicPath": "images/rating-02.png",
+      "bytes": 546414,
+      "sha256": "e757563dc8b7af40b1860b9fc8e0ff9de3ca7ac55e2d1cac0d83930b7541c9a2",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-02.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/rating-02.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/rating-02.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "rating-03.png",
+      "path": "public/images/rating-03.png",
+      "publicPath": "images/rating-03.png",
+      "bytes": 177905,
+      "sha256": "bd55ed23998e8b0e53680a07081130972b222fa9dd7791fa993df9fc0fd77449",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-03.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/rating-03.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/rating-03.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-01-lv2-diamond.png",
+      "path": "public/images/sb-01-lv2-diamond.png",
+      "publicPath": "images/sb-01-lv2-diamond.png",
+      "bytes": 79524,
+      "sha256": "54446d045e845934fef509ff0f2897e11e7d53878e5e136821ef52320a922206",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-01-lv2-diamond.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-01-lv2-diamond.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-02-task-diamond-energy.png",
+      "path": "public/images/sb-02-task-diamond-energy.png",
+      "publicPath": "images/sb-02-task-diamond-energy.png",
+      "bytes": 615746,
+      "sha256": "096f19c43b2a01122f6720248cb61b6d407b8f0220753261c4683c0997dd7605",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-02-task-diamond-energy.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-02-task-diamond-energy.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-02-task-diamond-energy.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-03-lv4-chest.png",
+      "path": "public/images/sb-03-lv4-chest.png",
+      "publicPath": "images/sb-03-lv4-chest.png",
+      "bytes": 569910,
+      "sha256": "f21f10793cd1c845dd116937f47caafdbc4923a1a474c5b3ba64574687845c1e",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-03-lv4-chest.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-03-lv4-chest.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-04-lv5-chest.png",
+      "path": "public/images/sb-04-lv5-chest.png",
+      "publicPath": "images/sb-04-lv5-chest.png",
+      "bytes": 585066,
+      "sha256": "170f3bf1f10aea48ba8cfd4f3d5ad8ca0bc47289676155b29d6f09335bee1ec3",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-04-lv5-chest.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-04-lv5-chest.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-04-lv5-chest.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-05-lv6-cardpack2.png",
+      "path": "public/images/sb-05-lv6-cardpack2.png",
+      "publicPath": "images/sb-05-lv6-cardpack2.png",
+      "bytes": 596739,
+      "sha256": "5394193f34611c35e72ff22757643a1c245d42ece73bc66a9f04d8e1aa6c6dbf",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-05-lv6-cardpack2.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-05-lv6-cardpack2.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-06-lv7-cardpack3.png",
+      "path": "public/images/sb-06-lv7-cardpack3.png",
+      "publicPath": "images/sb-06-lv7-cardpack3.png",
+      "bytes": 85590,
+      "sha256": "d685ff93fff372f68b13e97d4d6d1daf63788acc8b0d971cd5ca10db8cb59600",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-06-lv7-cardpack3.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-06-lv7-cardpack3.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-06-lv7-cardpack3.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-07-lv8-cardpack3.png",
+      "path": "public/images/sb-07-lv8-cardpack3.png",
+      "publicPath": "images/sb-07-lv8-cardpack3.png",
+      "bytes": 597136,
+      "sha256": "4b2f368cc31b6dd0ae131fee00cdcd7620a8a379f0792bae68709d4347701783",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-07-lv8-cardpack3.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-07-lv8-cardpack3.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-08-lv9-cardpack4.png",
+      "path": "public/images/sb-08-lv9-cardpack4.png",
+      "publicPath": "images/sb-08-lv9-cardpack4.png",
+      "bytes": 594472,
+      "sha256": "0bb7e854e111799c01cc66b94e4f528e88c37e547234f29de2572285c7e87e3d",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-08-lv9-cardpack4.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-08-lv9-cardpack4.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-08-lv9-cardpack4.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-09-lv10-cardpack5.png",
+      "path": "public/images/sb-09-lv10-cardpack5.png",
+      "publicPath": "images/sb-09-lv10-cardpack5.png",
+      "bytes": 610437,
+      "sha256": "2d520dafc4e3e006d2aefc56a125c34b6c29d876909ecddaef5fc5246013aa47",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-09-lv10-cardpack5.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-09-lv10-cardpack5.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-10-lv11-chest.png",
+      "path": "public/images/sb-10-lv11-chest.png",
+      "publicPath": "images/sb-10-lv11-chest.png",
+      "bytes": 585950,
+      "sha256": "584dc1b6dfb7326b593e59480726d18dae9d8a38f3b5ef7e86ec93588e108860",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-10-lv11-chest.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-10-lv11-chest.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-10-lv11-chest.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-11-lv12-cardpackXL3.png",
+      "path": "public/images/sb-11-lv12-cardpackXL3.png",
+      "publicPath": "images/sb-11-lv12-cardpackXL3.png",
+      "bytes": 588108,
+      "sha256": "d0e6ec2d04a11c8395fe1242569ff9684348b59a4ddef19dd2ec35c1499eb08b",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-11-lv12-cardpackXL3.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-11-lv12-cardpackXL3.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-12-lv13-cardpack4.png",
+      "path": "public/images/sb-12-lv13-cardpack4.png",
+      "publicPath": "images/sb-12-lv13-cardpack4.png",
+      "bytes": 1140329,
+      "sha256": "78abf78453ae5aa1109da4975c0af3177decb00d8cb786006567d03c770fbd9e",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-12-lv13-cardpack4.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-12-lv13-cardpack4.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-12-lv13-cardpack4.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-13-lv14-chest.png",
+      "path": "public/images/sb-13-lv14-chest.png",
+      "publicPath": "images/sb-13-lv14-chest.png",
+      "bytes": 595628,
+      "sha256": "da11d7ddaec6374a194d08b1b886e1a17c90df37c065ddbdfaea99c7255e9819",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-13-lv14-chest.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-13-lv14-chest.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-14-lv15-cardpack5.png",
+      "path": "public/images/sb-14-lv15-cardpack5.png",
+      "publicPath": "images/sb-14-lv15-cardpack5.png",
+      "bytes": 583065,
+      "sha256": "7f061c189986fb48add2585bdbc30f074f2e403b646206fc994dea9af011b82f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-14-lv15-cardpack5.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-14-lv15-cardpack5.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-14-lv15-cardpack5.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-15-lv16-cardpackXL4.png",
+      "path": "public/images/sb-15-lv16-cardpackXL4.png",
+      "publicPath": "images/sb-15-lv16-cardpackXL4.png",
+      "bytes": 1168854,
+      "sha256": "0289acb873fb9646eb040b8fb4e746d37850ecdf4cd97def5f88cbcbccb5cd75",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-15-lv16-cardpackXL4.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-15-lv16-cardpackXL4.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-16-lv17-hourglass.png",
+      "path": "public/images/sb-16-lv17-hourglass.png",
+      "publicPath": "images/sb-16-lv17-hourglass.png",
+      "bytes": 1153346,
+      "sha256": "f45bdc9bce522d0f291acfe1c7ab765e87f8634fb517077b1349a3e1328aa7d7",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-16-lv17-hourglass.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-16-lv17-hourglass.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-16-lv17-hourglass.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-17-lv18-scissors.png",
+      "path": "public/images/sb-17-lv18-scissors.png",
+      "publicPath": "images/sb-17-lv18-scissors.png",
+      "bytes": 1108122,
+      "sha256": "4255fceb6edc4e988668c220e4088e8bea5d99e4914710b66c60dfcd3478c379",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-17-lv18-scissors.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-17-lv18-scissors.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-17-lv18-scissors.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-18-lv19-cardpackXL5.png",
+      "path": "public/images/sb-18-lv19-cardpackXL5.png",
+      "publicPath": "images/sb-18-lv19-cardpackXL5.png",
+      "bytes": 1182284,
+      "sha256": "c26d4ec74a4a0f03258b297e2c0525cb4fd6048a8ec3debb61552e903fecb393",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-18-lv19-cardpackXL5.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-18-lv19-cardpackXL5.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "sb-19-lv20-ordercase.png",
+      "path": "public/images/sb-19-lv20-ordercase.png",
+      "publicPath": "images/sb-19-lv20-ordercase.png",
+      "bytes": 1125992,
+      "sha256": "f2f91be818bc6b2baf2d2b0a3659e50e2d26390c46a731fc83bd606971692c7f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-19-lv20-ordercase.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/sb-19-lv20-ordercase.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/sb-19-lv20-ordercase.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "upgrade-offer-lv11.png",
+      "path": "public/images/upgrade-offer-lv11.png",
+      "publicPath": "images/upgrade-offer-lv11.png",
+      "bytes": 235655,
+      "sha256": "61d277fa36f3600ac51261f49153ae95784d8801dae1cff8f867b4a1379fd488",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv11.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/upgrade-offer-lv11.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/upgrade-offer-lv11.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "upgrade-offer-lv13.png",
+      "path": "public/images/upgrade-offer-lv13.png",
+      "publicPath": "images/upgrade-offer-lv13.png",
+      "bytes": 225091,
+      "sha256": "25e80075dfda74ef5e2c110632b7211be12bdb2e107c24353aa961a0665b1a4f",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv13.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/upgrade-offer-lv13.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/upgrade-offer-lv13.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "upgrade-offer-lv15.png",
+      "path": "public/images/upgrade-offer-lv15.png",
+      "publicPath": "images/upgrade-offer-lv15.png",
+      "bytes": 2188159,
+      "sha256": "90633a903fb8bec0cafc86d1fba44e86ff99887ca8c49fff932833c79166663c",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv15.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/upgrade-offer-lv15.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/upgrade-offer-lv15.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "upgrade-offer-lv17.png",
+      "path": "public/images/upgrade-offer-lv17.png",
+      "publicPath": "images/upgrade-offer-lv17.png",
+      "bytes": 1928637,
+      "sha256": "077dfe2125efb71345d1c6f07a84372372b20ab80ee850d359061dc3207b8505",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv17.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/upgrade-offer-lv17.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/upgrade-offer-lv17.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "upgrade-offer-lv19.png",
+      "path": "public/images/upgrade-offer-lv19.png",
+      "publicPath": "images/upgrade-offer-lv19.png",
+      "bytes": 1602133,
+      "sha256": "94bcfbaf54cecd16f451a2524a6ccb45ec1e0312cd550c71a81019397daa8b93",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv19.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/upgrade-offer-lv19.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/upgrade-offer-lv19.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "upgrade-offer-lv21.png",
+      "path": "public/images/upgrade-offer-lv21.png",
+      "publicPath": "images/upgrade-offer-lv21.png",
+      "bytes": 1311250,
+      "sha256": "a16e8192583fa94ee4006aeb22ca43782885ce844e31c84d80df87b392f434e5",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv21.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/upgrade-offer-lv21.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/upgrade-offer-lv21.png"
+      }
+    },
+    {
+      "type": "image",
+      "name": "upgrade-offer-lv9.png",
+      "path": "public/images/upgrade-offer-lv9.png",
+      "publicPath": "images/upgrade-offer-lv9.png",
+      "bytes": 233144,
+      "sha256": "db10e15e99eb7790e728243041aeff40649054b0025d7b5280c11f393b7b7490",
+      "urls": {
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv9.png",
+        "raw": "https://raw.githubusercontent.com/littlexuxu122/tudou-assets/main/public/images/upgrade-offer-lv9.png",
+        "github": "https://github.com/littlexuxu122/tudou-assets/blob/main/public/images/upgrade-offer-lv9.png"
+      }
     }
   ],
   "mapping": {
@@ -1066,6 +1807,63 @@
     "public/images/073_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/073_image.png",
     "public/images/074_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/074_image.png",
     "public/images/075_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/075_image.png",
-    "public/images/076_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/076_image.png"
+    "public/images/076_image.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/076_image.png",
+    "public/images/daily-bonus-01.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-01.jpg",
+    "public/images/daily-bonus-02.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-02.jpg",
+    "public/images/daily-bonus-03.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-03.jpg",
+    "public/images/daily-bonus-04.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-04.jpg",
+    "public/images/daily-bonus-05.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/daily-bonus-05.jpg",
+    "public/images/gameplay-01.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-01.jpg",
+    "public/images/gameplay-02.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-02.jpg",
+    "public/images/gameplay-03.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-03.jpg",
+    "public/images/gameplay-04.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-04.jpg",
+    "public/images/gameplay-05.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-05.jpg",
+    "public/images/gameplay-06.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-06.jpg",
+    "public/images/gameplay-07.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-07.jpg",
+    "public/images/gameplay-08.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-08.jpg",
+    "public/images/gameplay-09.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-09.jpg",
+    "public/images/gameplay-10.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-10.jpg",
+    "public/images/gameplay-11.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-11.jpg",
+    "public/images/gameplay-12.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-12.jpg",
+    "public/images/gameplay-13.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-13.jpg",
+    "public/images/gameplay-14.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-14.jpg",
+    "public/images/gameplay-15.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-15.jpg",
+    "public/images/gameplay-16.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-16.jpg",
+    "public/images/gameplay-17.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-17.jpg",
+    "public/images/gameplay-18.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-18.jpg",
+    "public/images/gameplay-19.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-19.jpg",
+    "public/images/gameplay-20.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-20.jpg",
+    "public/images/gameplay-21.jpg": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/gameplay-21.jpg",
+    "public/images/notification-01.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/notification-01.png",
+    "public/images/notification-02.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/notification-02.png",
+    "public/images/rating-01.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-01.png",
+    "public/images/rating-02.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-02.png",
+    "public/images/rating-03.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/rating-03.png",
+    "public/images/sb-01-lv2-diamond.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-01-lv2-diamond.png",
+    "public/images/sb-02-task-diamond-energy.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-02-task-diamond-energy.png",
+    "public/images/sb-03-lv4-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-03-lv4-chest.png",
+    "public/images/sb-04-lv5-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-04-lv5-chest.png",
+    "public/images/sb-05-lv6-cardpack2.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-05-lv6-cardpack2.png",
+    "public/images/sb-06-lv7-cardpack3.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-06-lv7-cardpack3.png",
+    "public/images/sb-07-lv8-cardpack3.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-07-lv8-cardpack3.png",
+    "public/images/sb-08-lv9-cardpack4.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-08-lv9-cardpack4.png",
+    "public/images/sb-09-lv10-cardpack5.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-09-lv10-cardpack5.png",
+    "public/images/sb-10-lv11-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-10-lv11-chest.png",
+    "public/images/sb-11-lv12-cardpackXL3.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-11-lv12-cardpackXL3.png",
+    "public/images/sb-12-lv13-cardpack4.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-12-lv13-cardpack4.png",
+    "public/images/sb-13-lv14-chest.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-13-lv14-chest.png",
+    "public/images/sb-14-lv15-cardpack5.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-14-lv15-cardpack5.png",
+    "public/images/sb-15-lv16-cardpackXL4.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-15-lv16-cardpackXL4.png",
+    "public/images/sb-16-lv17-hourglass.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-16-lv17-hourglass.png",
+    "public/images/sb-17-lv18-scissors.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-17-lv18-scissors.png",
+    "public/images/sb-18-lv19-cardpackXL5.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-18-lv19-cardpackXL5.png",
+    "public/images/sb-19-lv20-ordercase.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/sb-19-lv20-ordercase.png",
+    "public/images/upgrade-offer-lv11.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv11.png",
+    "public/images/upgrade-offer-lv13.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv13.png",
+    "public/images/upgrade-offer-lv15.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv15.png",
+    "public/images/upgrade-offer-lv17.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv17.png",
+    "public/images/upgrade-offer-lv19.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv19.png",
+    "public/images/upgrade-offer-lv21.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv21.png",
+    "public/images/upgrade-offer-lv9.png": "https://cdn.jsdelivr.net/gh/littlexuxu122/tudou-assets@main/public/images/upgrade-offer-lv9.png"
   }
 }
